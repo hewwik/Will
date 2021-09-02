@@ -13,10 +13,10 @@ body{
 :root{
     --text: 'Abel', sans-serif; 
     --title: 'Arquivo Blck', sans-serif; 
-    --brown:#3b2008; 
-    --brownlight-1:#f8d699; 
-    --brownlight-2:#e4af5a; 
-    --brownlight-3:#985e06; 
+    --brown:#e1ad21; 
+    --brownlight-1:#f4c430; 
+    --brownlight-2:#ffdf00; 
+    --brownlight-3:#f8de7e; 
     --blue:#0a0120;
 } 
  
@@ -138,19 +138,19 @@ span, img{
 } 
  
 #color-1{
-    background:#e1ad21;
+    background:var(--brown);
 } 
  
 #color-2{
-    background:#f4c430;
+    background:var(--brownlight-1);
 } 
  
 #color-3{
-    background:#ffdf00;
+    background:var(--brownlight-2);
 } 
  
 #color-4{
-    background:#f8de7e;
+    background:var(--brownlight-3);
 } 
  
 #content-1:target #user{
