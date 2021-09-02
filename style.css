@@ -138,19 +138,19 @@ span, img{
 } 
  
 #color-1{
-    background:var(--brown);
+    background:#e1ad21;
 } 
  
 #color-2{
-    background:var(--brownlight-1);
+    background:#f4c430;
 } 
  
 #color-3{
-    background:var(--brownlight-2);
+    background:#ffdf00;
 } 
  
 #color-4{
-    background:var(--brownlight-3);
+    background:#f8de7e;
 } 
  
 #content-1:target #user{
