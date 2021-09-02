@@ -1,7 +1,7 @@
  
  
 body{
-    background:#fcfcfc;
+    background:#0f0f0f;
 } 
  
 *{
@@ -515,7 +515,7 @@ span, img{
  
 .bloco-works{
     width:520px; 
-    height:320px; 
+    height:700px; 
     overflow:; 
     padding:10px; 
     background:var(--brownlight-2); 
