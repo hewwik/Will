@@ -478,13 +478,13 @@ span, img{
 } 
  
 .box-about h1{
-    width:330px; 
+    width:272px; 
     text-align:center; 
     font-size:5em; 
     color:transparent; 
     background:linear-gradient(-45deg, var(--brown), var(--brownlight-1), var(--brownlight-3));
     -webkit-background-clip:text; 
-    margin-left:calc(50% - 100px); 
+    margin-left:calc(50% - 136px); 
     font-family:var(--title);
 } 
  
